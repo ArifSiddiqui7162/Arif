@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arifsiddiqui7162" alt="arifsiddiqui7162" /></a> </p>
 
-- 🔭 I’m currently working on [Sales Insights](https://drive.google.com/drive/folders/1-KXey-8KmoUx4Yg9qbDdG4fK3jjjFbPQ?usp=drive_link)
+- 🔭 I’m currently working on DataWarehouse
 
 - 📫 How to reach me **arifsiddiqui7162@gmail.com**
 
