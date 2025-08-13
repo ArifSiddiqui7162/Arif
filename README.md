@@ -32,17 +32,16 @@ I’m passionate about transforming raw data into meaningful insights that drive
 ### 1️⃣ HR Analytics Dashboard (Power BI)  
 📌 **Description:** An interactive HR dashboard analyzing attrition trends, demographics, and performance insights.  
 🔧 **Tech Stack:** Power BI, Excel, DAX  
-📎 [View Project](#)  
+
 
 ### 2️⃣ Sales Insights Analysis (SQL + Power BI)  
 📌 **Description:** Designed a sales performance dashboard using SQL queries and Power BI visualizations to identify revenue trends.  
 🔧 **Tech Stack:** SQL Server, Power BI, Excel  
-📎 [View Project](#)  
 
 ### 3️⃣ Python Data Analysis Project  
 📌 **Description:** Cleaned, analyzed, and visualized large datasets using Pandas, NumPy, and Seaborn for actionable insights.  
 🔧 **Tech Stack:** Python, Pandas, Seaborn, Matplotlib  
-📎 [View Project](#)  
+
 
 ---
 
