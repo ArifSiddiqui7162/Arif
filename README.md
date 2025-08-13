@@ -1,52 +1,67 @@
-<h1 align="center">Hi 👋, I'm Aarif Siddique</h1>
-<h3 align="center">Passionate Data Analytics & Data Science Enthusiast from India</h3>
+# 👋 Hi, I'm Aarif Siddique  
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arifsiddiqui7162&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+💡 **Data Analyst & Data Science Enthusiast** | 📍 *India*  
 
----
+I’m passionate about transforming raw data into meaningful insights that drive business decisions. With expertise in **Power BI, SQL Server, MySQL, Excel, and Python**, I specialize in building **interactive dashboards, data pipelines, and analytical models**. My long-term vision is to deliver **end-to-end data solutions** — from **data warehousing** to **business intelligence dashboards** — helping organizations unlock the true potential of their data.  
 
-### 🚀 About Me  
-- 🔭 Currently working on **Data Warehouse & Business Intelligence Projects**  
-- 🌱 Learning and building expertise in **Data Analytics, Machine Learning, and Cloud Data Solutions**  
-- 💼 Aspiring to build **Data483 Solutions** — providing end-to-end data services from data warehousing to dashboarding  
-- 📫 Reach me at: **arifsiddiqui7162@gmail.com**  
-- 📄 My Resume: [View Here](https://docs.google.com/document/d/17zXASSEgOz2Bj6lYxhetLfhDF3palM1I/edit?usp=drive_link)  
+📧 **Email:** arifsiddiqui7162@gmail.com  
 
 ---
 
-### 🤝 Connect with Me  
-<p align="left">
-<a href="https://linkedin.com/in/aarifsiddiqui" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-<a href="https://www.hackerearth.com/@arifsiddiqui7162" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="Hackerearth" height="30" width="40" />
-</a>
-</p>
+## 🛠️ Skills & Tools  
+
+### 💻 Programming & Scripting  
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+- ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+- ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+- ![Seaborn](https://img.shields.io/badge/Seaborn-2E4C6D?style=for-the-badge)  
+- ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+
+### 🗄️ Databases  
+- ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+
+### 📊 Business Intelligence Tools  
+- ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)  
+- ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
 
 ---
 
-### 🛠️ Languages & Tools  
-<p align="left">
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
-<a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="numpy" width="40" height="40"/></a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-</p>
+## 📂 Featured Projects  
+
+### 1️⃣ HR Analytics Dashboard (Power BI)  
+📌 **Description:** An interactive HR dashboard analyzing attrition trends, demographics, and performance insights.  
+🔧 **Tech Stack:** Power BI, Excel, DAX  
+📎 [View Project](#)  
+
+### 2️⃣ Sales Insights Analysis (SQL + Power BI)  
+📌 **Description:** Designed a sales performance dashboard using SQL queries and Power BI visualizations to identify revenue trends.  
+🔧 **Tech Stack:** SQL Server, Power BI, Excel  
+📎 [View Project](#)  
+
+### 3️⃣ Python Data Analysis Project  
+📌 **Description:** Cleaned, analyzed, and visualized large datasets using Pandas, NumPy, and Seaborn for actionable insights.  
+🔧 **Tech Stack:** Python, Pandas, Seaborn, Matplotlib  
+📎 [View Project](#)  
 
 ---
 
-### 📊 GitHub Stats  
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arifsiddiqui7162&show_icons=true&locale=en&layout=compact" alt="top languages" />
-</p>
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=arifsiddiqui7162&show_icons=true&locale=en" alt="github stats" />
-</p>
+## 📬 Connect With Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)  
+[![HackerEarth](https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white)](https://hackerearth.com/@your-username)  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@your-channel)  
+
+---
+
+## 📊 GitHub Stats  
+
+![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)  
+
+![Aarif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com?user=your-username&theme=tokyonight)  
+
+---
+
+🚀 *Always learning, always growing — exploring the next big thing in data analytics and data science.*  
